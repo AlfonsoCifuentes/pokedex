@@ -32,6 +32,7 @@ h1 {
   text-align: center;
   border: 5px solid black;
   box-shadow: 3px 3px 10px black;
+  border-radius: 20px;
 }
 .card-title {
   text-transform: uppercase;
